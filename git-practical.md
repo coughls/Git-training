@@ -32,7 +32,7 @@ git push -u origin master
 
 8. Go to your repository in github, refresh the page and you should see your changes there
 
-9. Click the 'commits' button on the right hand side and click into your commit message to see teh changes to that file. Green highlighted text means that it was added to the file while red highlighted text means that text was deleted from the file
+9. Click the 'commits' button on the right hand side and click into your commit message to see the changes to that file. Green highlighted text means that it was added to the file while red highlighted text means that text was deleted from the file
 
 10. Next, go back to git bash and create a new branch by typing 
 

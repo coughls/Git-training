@@ -1,5 +1,7 @@
 # Workshop on Version Control with Git and Github
 
+Workshop on version control with Git and Github for [Genomics Data Science PhD Students](https://genomicsdatascience.ie/) at the National University of Ireland, Galway
+
 ## Prerequisities
 - Get a [Github](github.com) account
 

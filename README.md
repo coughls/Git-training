@@ -1,4 +1,4 @@
-# Git-training
+# Workshop on Version Control with Git and Github
 
 ## Prerequisities
 - Get a [Github](github.com) account

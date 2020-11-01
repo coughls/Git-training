@@ -14,3 +14,4 @@ If you get an error, then you can install git on the command line by typing `sud
 - [Workshop presentation](https://github.com/coughls/Git-training/blob/master/intro_to_git_and_github.pdf)
 - [Practical Exercise](https://github.com/coughls/Git-training/blob/master/git-practical.md)
 
+![](https://github.com/coughls/Git-training/blob/master/yancy-min-842ofHC6MaI-unsplash-small.jpg)
